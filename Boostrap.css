@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New';
+}
+
+.row{
+    margin-bottom: 20px;
+} */
+
+#style{
+    text-align: center;
+
+}
+h1{
+    margin-top: 2rem;
+    text-align: center;
+}
